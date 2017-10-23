@@ -1,6 +1,6 @@
 # What is this?
 
-This repo holds the website for [Snack Academy](https://github.com/julielin0812/snack-academy) built by [Kenta Kodama](https://github.com/kentakodama), [Julie Lin](https://github.com/julielin0812), and [Logan Cooper](https://github.com/ldtcooper). It is built with...
+This repo holds the website for [Snack Academy](https://github.com/julielin0812/snack-academy) built by [Kenta Kodama](https://github.com/kentakodama), [Julie Lin](https://github.com/julielin0812), and [Logan Cooper](https://github.com/ldtcooper). This site is built with...
 
 ## Fractal by HTML5 UP
 
