@@ -2360,9 +2360,10 @@
 
 		.image.phone {
 			box-shadow: none;
-			border-radius: 0;
+			border-radius: 16px;
 			margin: 0 0 3em 0;
 			width: 13em;
+			background-color: white;
 		}
 
 			.image.phone img {
@@ -2771,14 +2772,12 @@
 
 		.spotlight .image {
 			width: 30%;
-			border-radius: 100%;
 			margin: 0 3em 0 0;
 			display: block;
 		}
 
 			.spotlight .image img {
 				display: block;
-				border-radius: 100%;
 				width: 100%;
 			}
 
@@ -3770,15 +3769,15 @@
 			}
 
 				#header .image.phone .inner, #header .image.phone:before, #header .image.phone:after {
-					border-color: rgba(255, 255, 255, 0.25);
+					border-color: #e6e6e6;
 				}
 
 				#header .image.phone .inner:before {
-					background: rgba(255, 255, 255, 0.25);
+					background: #e6e6e6;
 				}
 
 				#header .image.phone .inner:after {
-					border-color: rgba(255, 255, 255, 0.25);
+					border-color: #e6e6e6;
 				}
 
 		#header ul.alt > li {
