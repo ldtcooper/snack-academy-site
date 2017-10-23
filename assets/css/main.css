@@ -2934,7 +2934,7 @@
 
 	.wrapper {
 		padding: 4.5em 0 2.5em 0 ;
-		background-color: #ffffff;
+		background-color: #f7f7f7;
 		border-bottom: solid 2px #eeeeee;
 	}
 
@@ -3627,7 +3627,7 @@
 /* Header */
 
 	#header {
-		background-color: #4696e5;
+		background-color: #1485cc;
 		color: #d0e4f8;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
