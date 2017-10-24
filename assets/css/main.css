@@ -2319,7 +2319,7 @@
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			width: 15%;
 		}
 
 			.image.left img, .image.right img {
@@ -4147,4 +4147,9 @@
 			padding: 3em 1.5em 1em 1.5em ;
 		}
 
+	}
+
+	section #meet-the-team .team-member img{
+		border-radius: 50%;
+		width: 15%;
 	}
